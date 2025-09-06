@@ -1,3 +1,5 @@
+![logo](https://github.com/aniketjatavwork-tech/aniketjatavwork-tech/blob/main/download%20(1).jpeg)
+
 <h1 align="center">Hi 👋, I'm Aniket Jatav</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="analysis" width="400" src="https://chatgpt.com/s/m_68bc3a98780081918b39a8df1e8a258d">
